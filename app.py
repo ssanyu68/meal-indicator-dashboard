@@ -1811,7 +1811,6 @@ print("Streamlit app syntax check passed.")
 
 """The code below launches the Streamlit app"""
 
-!streamlit run app.py --server.port 8501 --server.headless true > streamlit.log 2>&1 &
 
 !cat streamlit.log
 

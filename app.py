@@ -1812,7 +1812,6 @@ print("Streamlit app syntax check passed.")
 """The code below launches the Streamlit app"""
 
 
-!cat streamlit.log
 
 """I will create a public browser accessible link to the streamlit app in the code to install cloudflare tunnel. Please note that the data used throughout development of this MEAL dashboard is fictional."""
 
